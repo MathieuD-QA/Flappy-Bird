@@ -15,7 +15,7 @@ struct Entity(u64);
 
 
 fn hello_world() {
-    println!("hello world! ");
+    println!("hello world!");
 }
 
 fn main() {
